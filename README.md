@@ -6,3 +6,5 @@ By using this Application, you can search the Movie and User based on ***Genre**
 Developed by *Fisher MouHu*
 
 Feel Free to Use it !
+
+Before using it, please Remember to Run ***createdb.sql*** so that you could have the Table !
