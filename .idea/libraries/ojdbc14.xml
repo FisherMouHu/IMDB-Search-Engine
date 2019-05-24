@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ojdbc14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ojdbc14.jar!/" />
+      <root url="jar://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Oracle/12.1.0.2/ojdbc6-12.1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
