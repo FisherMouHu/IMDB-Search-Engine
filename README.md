@@ -7,4 +7,4 @@ Developed by *Fisher MouHu*
 
 Feel Free to Use it !
 
-Before using it, please Remember to Run ***createdb.sql*** so that you could have the Table !
+Before using it, please Remember to Run ***createdb.sql*** so that you could have the Tables !
